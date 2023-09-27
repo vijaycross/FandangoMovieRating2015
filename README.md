@@ -152,8 +152,6 @@ Contributions are always welcome!
 ## 🚀 About Me
 A Passionate Machine Learning Enthusiast from India  🇮🇳
 
-- 👩‍💻 I’m currently working on **Data Science**
-
 - 🧠 I’m currently learning **Machine Learning, Deep Learning & AI**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning & AI**
